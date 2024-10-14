@@ -1,4 +1,4 @@
-# Nigeria-Agricultural-Export
+# Nigeria Agricultural Export
 
 ### Overview
 This project provides an in-depth analysis of Nigeria's agricultural export performance using Power BI. It covers the revenue, units sold, costs, and trends across different ports, products, and export countries. The dashboard offers insights into the seasonal and quarterly revenue patterns, top-selling products, cost of goods sold (COGS), and export performance by ports.
