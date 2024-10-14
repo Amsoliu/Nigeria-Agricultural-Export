@@ -3,8 +3,6 @@
 ### Overview
 This project provides an in-depth analysis of Nigeria's agricultural export performance using Power BI. It covers the revenue, units sold, costs, and trends across different ports, products, and export countries. The dashboard offers insights into the seasonal and quarterly revenue patterns, top-selling products, cost of goods sold (COGS), and export performance by ports.
 
-![Sales page](https://github.com/user-attachments/assets/7959cdde-f723-4242-ba3b-3359fb425b86)
-
 ### Key Features:
 - Revenue Analysis: Breakdown of revenue by year, quarter, month, and season to identify trends over time.
 - Product Sales Analysis: Insights into the top-selling products like sesame, cocoa, and cashew, along with sales volume by export country.
@@ -12,8 +10,6 @@ This project provides an in-depth analysis of Nigeria's agricultural export perf
 - Seasonal Trends: Identification of high and low revenue seasons, with a focus on understanding fluctuations across different time periods.
 - Cost of Goods Sold (COGS): Evaluation of COGS for different agricultural products to assess profitability.
 - Export Country Analysis: Performance metrics for countries importing Nigerian agricultural products, including average revenue per unit.
-  
-![time series page](https://github.com/user-attachments/assets/608ec63b-386d-4299-9af2-4ebd68226677)
 
 ### Tools Used:
 - Power BI: For data visualization, interactive dashboards, and comprehensive analysis.
@@ -24,5 +20,3 @@ This project provides an in-depth analysis of Nigeria's agricultural export perf
 - Lagos Port emerged as the top performer in terms of export volume and revenue.
 - Cocoa led the list for the highest COGS, indicating a significant cost component in its production.
 - Seasonal and quarterly analyses showed summer and the fourth quarter as peak revenue periods.
-
-![cost   regional page](https://github.com/user-attachments/assets/7b110a82-fdd7-49dc-b57a-d92c50171c0f)
