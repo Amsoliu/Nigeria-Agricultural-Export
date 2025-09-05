@@ -11,6 +11,8 @@ This project provides an in-depth analysis of Nigeria's agricultural export perf
 - Cost of Goods Sold (COGS): Evaluation of COGS for different agricultural products to assess profitability.
 - Export Country Analysis: Performance metrics for countries importing Nigerian agricultural products, including average revenue per unit.
 
+![Image](https://github.com/user-attachments/assets/c54bad1b-38c8-48c7-b7a5-213d14bfdbc1)
+
 ### Tools Used:
 - Power BI: For data visualization, interactive dashboards, and comprehensive analysis.
 - Excel: For data cleaning and preparation
